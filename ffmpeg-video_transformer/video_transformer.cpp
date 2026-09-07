@@ -4,6 +4,6 @@
 #include "video_transformer.h"
 
 int main() {
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello, World I Have Setup FFmpeg and Cmake!\n";
     return 0;
 }
