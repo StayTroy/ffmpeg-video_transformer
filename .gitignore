@@ -1,0 +1,39 @@
+# =========================
+# CMake & Build Folders
+# =========================
+/out/
+/build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# =========================
+# Visual Studio & IDEs
+# =========================
+.vs/
+*.user
+*.suo
+*.ide
+
+# =========================
+# 3. Compilation Artifacts
+# =========================
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+
+# =========================
+# Media & Test Files
+# =========================
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
